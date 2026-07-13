@@ -1,0 +1,2 @@
+# CodeAlpha_CreditScoringModel
+Predicting individual creditworthiness using classification algorithms.
